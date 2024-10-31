@@ -1,0 +1,14 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "addresses": [
+    {
+      "type": "home",
+      "street": "123 Main St"
+    },
+    {
+      "type": "work",
+      "street": "456 Office Rd"
+    }
+  ]
+}
